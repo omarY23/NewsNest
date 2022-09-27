@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=DynaPuff&family=Maven+Pro&family=Righteous&family=Silkscreen&family=Ubuntu:wght@300&display=swap');
+
+.new{
+    height: 65px;
+    background-color: #060034fa;
+    color: rgb(255, 255, 255);
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    margin-bottom: 30px;
+       
+}
+
+/* .sticky {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    margin-bottom: 30px;
+} */
+.cust{
+    font-size: 30px;
+    font-family: 'Aboreto', cursive;
+    margin-left: 5px;
+}
+
+.App-logo{
+    width: 75px;
+    height: 75px;
+    margin-left: 90px;
+}
+
+/* #009e9b; */
+
+.mymarginclass{
+    margin-right: 120px;
+}
+
+.categories{
+    padding-top: 7px;
+    color: white;
+}
+
+.chosen:hover{
+    cursor: pointer;
+    background-color: #060034fa;
+    color: white;
+}
+
+

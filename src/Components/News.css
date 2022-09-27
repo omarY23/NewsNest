@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=DynaPuff&family=Maven+Pro&family=Playfair+Display+SC&family=Righteous&family=Rubik&family=Silkscreen&family=Ubuntu:wght@300&display=swap');
+
+.pageNav{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.nav_button{
+    border-radius: 4px;
+    border: none;
+    background-color: #32935b;
+    width: 120px;
+    height: 40px;
+    font-family: "Ubuntu", cursive;
+    color: white;
+}
+
+.h1{
+    font-family: 'Playfair Display SC', serif;
+}
+
+.myclassPagination:hover{
+    cursor: pointer;
+}
